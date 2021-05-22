@@ -1,0 +1,11 @@
+name: ApathosKOTH
+main: spice\koth\ApathosKoth
+version: 1.0-beta
+api: 3.0.0
+author: SpiceX
+description: Apathos KOTH system
+
+permissions:
+  koth.cmd:
+    default: op
+    description: koth command
